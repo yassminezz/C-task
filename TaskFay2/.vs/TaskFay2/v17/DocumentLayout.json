@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yassm\\source\\repos\\TaskFay2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFB450-3D50-4960-AADD-33B40BBF19F7}|TaskFay2\\TaskFay2.csproj|c:\\users\\yassm\\source\\repos\\taskfay2\\taskfay2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBFB450-3D50-4960-AADD-33B40BBF19F7}|TaskFay2\\TaskFay2.csproj|solutionrelative:taskfay2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\TaskFay2\\TaskFay2\\Program.cs",
+              "RelativeDocumentMoniker": "TaskFay2\\Program.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\TaskFay2\\TaskFay2\\Program.cs",
+              "RelativeToolTip": "TaskFay2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T18:20:09.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

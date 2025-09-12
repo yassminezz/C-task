@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yassm\\source\\repos\\TaskDay2_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BCD98A-0703-490C-99AD-E5A13666C8BA}|TaskDay2_4\\TaskDay2_4.csproj|c:\\users\\yassm\\source\\repos\\taskday2_4\\taskday2_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BCD98A-0703-490C-99AD-E5A13666C8BA}|TaskDay2_4\\TaskDay2_4.csproj|solutionrelative:taskday2_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\TaskDay2_4\\TaskDay2_4\\Program.cs",
+              "RelativeDocumentMoniker": "TaskDay2_4\\Program.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\TaskDay2_4\\TaskDay2_4\\Program.cs",
+              "RelativeToolTip": "TaskDay2_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T18:34:09.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
