@@ -1,0 +1,7 @@
+H:\New folder (3)\Day3\Day3\bin\Debug\Day3.exe.config
+H:\New folder (3)\Day3\Day3\bin\Debug\Day3.exe
+H:\New folder (3)\Day3\Day3\bin\Debug\Day3.pdb
+H:\New folder (3)\Day3\Day3\obj\Debug\Day3.csproj.AssemblyReference.cache
+H:\New folder (3)\Day3\Day3\obj\Debug\Day3.csproj.CoreCompileInputs.cache
+H:\New folder (3)\Day3\Day3\obj\Debug\Day3.exe
+H:\New folder (3)\Day3\Day3\obj\Debug\Day3.pdb

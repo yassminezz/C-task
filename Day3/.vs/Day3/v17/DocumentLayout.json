@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "H:\\New folder (3)\\Day3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CF7FE01-AD28-4782-9F23-CEA5F8E88557}|Day3\\Day3.csproj|h:\\new folder (3)\\day3\\day3\\mcq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CF7FE01-AD28-4782-9F23-CEA5F8E88557}|Day3\\Day3.csproj|solutionrelative:day3\\mcq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\New folder (3)\\Day3\\Day3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CF7FE01-AD28-4782-9F23-CEA5F8E88557}|Day3\\Day3.csproj|H:\\New folder (3)\\Day3\\Day3\\Calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CF7FE01-AD28-4782-9F23-CEA5F8E88557}|Day3\\Day3.csproj|solutionrelative:Day3\\Calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\New folder (3)\\Day3\\Day3\\Question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day3\\Question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CF7FE01-AD28-4782-9F23-CEA5F8E88557}|Day3\\Day3.csproj|H:\\New folder (3)\\Day3\\Day3\\Question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CF7FE01-AD28-4782-9F23-CEA5F8E88557}|Day3\\Day3.csproj|solutionrelative:Day3\\Question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\New folder (3)\\Day3\\Day3\\MCQ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day3\\MCQ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CF7FE01-AD28-4782-9F23-CEA5F8E88557}|Day3\\Day3.csproj|H:\\New folder (3)\\Day3\\Day3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CF7FE01-AD28-4782-9F23-CEA5F8E88557}|Day3\\Day3.csproj|solutionrelative:Day3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\New folder (3)\\Day3\\Day3\\Calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day3\\Calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MCQ.cs",
               "DocumentMoniker": "H:\\New folder (3)\\Day3\\Day3\\MCQ.cs",
               "RelativeDocumentMoniker": "Day3\\MCQ.cs",
               "ToolTip": "H:\\New folder (3)\\Day3\\Day3\\MCQ.cs",
               "RelativeToolTip": "Day3\\MCQ.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAMzMzMzMbwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T09:05:19.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Question.cs",
               "DocumentMoniker": "H:\\New folder (3)\\Day3\\Day3\\Question.cs",
               "RelativeDocumentMoniker": "Day3\\Question.cs",
@@ -51,11 +51,12 @@
               "RelativeToolTip": "Day3\\Question.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T09:02:30.297Z"
+              "WhenOpened": "2025-09-13T09:02:30.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Calc.cs",
               "DocumentMoniker": "H:\\New folder (3)\\Day3\\Day3\\Calc.cs",
               "RelativeDocumentMoniker": "Day3\\Calc.cs",
@@ -63,20 +64,20 @@
               "RelativeToolTip": "Day3\\Calc.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T09:01:33.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-13T09:01:33.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\New folder (3)\\Day3\\Day3\\Program.cs",
               "RelativeDocumentMoniker": "Day3\\Program.cs",
               "ToolTip": "H:\\New folder (3)\\Day3\\Day3\\Program.cs",
               "RelativeToolTip": "Day3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAMzMzMzMrwEUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T09:00:56.485Z"
+              "WhenOpened": "2025-09-13T09:00:56.485Z",
+              "EditorCaption": ""
             }
           ]
         }

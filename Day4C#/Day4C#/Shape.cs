@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Day4C_
+{
+    public abstract class Shape
+    {
+        public abstract double Area();
+       
+    }
+}

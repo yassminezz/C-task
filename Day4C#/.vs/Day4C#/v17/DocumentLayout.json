@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yassm\\source\\repos\\Day4C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\cources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\cources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|c:\\users\\yassm\\source\\repos\\day4c#\\day4c#\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE9EAB9-83FB-4C13-B386-496D6CB61D04}|Day4C#\\Day4C#.csproj|solutionrelative:day4c#\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Rectangle.cs",
+              "RelativeToolTip": "Day4C#\\Rectangle.cs",
+              "ViewState": "AgIAAAsAAAAAMzMzMzPzvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:30:35.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Circle.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Circle.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Circle.cs",
+              "RelativeToolTip": "Day4C#\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:30:23.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDraw.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\IDraw.cs",
+              "RelativeDocumentMoniker": "Day4C#\\IDraw.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\IDraw.cs",
+              "RelativeToolTip": "Day4C#\\IDraw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:27:37.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Shape.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Shape.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Shape.cs",
+              "RelativeToolTip": "Day4C#\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:26:14.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Grade.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Grade.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Grade.cs",
+              "RelativeToolTip": "Day4C#\\Grade.cs",
+              "ViewState": "AgIAACAAAACAZmZmZmYewCUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:23:56.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Student.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Student.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Student.cs",
+              "RelativeToolTip": "Day4C#\\Student.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:07:26.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Instructor.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Instructor.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Instructor.cs",
+              "RelativeToolTip": "Day4C#\\Instructor.cs",
+              "ViewState": "AgIAAAcAAAAAMzMzMzMLwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:54:13.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Person.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Person.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Person.cs",
+              "RelativeToolTip": "Day4C#\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:53:11.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Engine.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Engine.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Engine.cs",
+              "RelativeToolTip": "Day4C#\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:46:16.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Car.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Car.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Car.cs",
+              "RelativeToolTip": "Day4C#\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:46:05.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cources.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Cources.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Cources.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Cources.cs",
+              "RelativeToolTip": "Day4C#\\Cources.cs",
+              "ViewState": "AgIAAAYAAABgZmZmZmYkwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:45:57.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Employee.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Employee.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Employee.cs",
+              "RelativeToolTip": "Day4C#\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:44:58.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Department.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Department.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Department.cs",
+              "RelativeToolTip": "Day4C#\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:44:46.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Company.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Company.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Company.cs",
+              "RelativeToolTip": "Day4C#\\Company.cs",
+              "ViewState": "AgIAAAcAAAAAMzMzMzMLwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:44:12.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Program.cs",
+              "RelativeDocumentMoniker": "Day4C#\\Program.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\Day4C#\\Day4C#\\Program.cs",
+              "RelativeToolTip": "Day4C#\\Program.cs",
+              "ViewState": "AgIAADUAAAAAzczMzMwmwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:43:35.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
