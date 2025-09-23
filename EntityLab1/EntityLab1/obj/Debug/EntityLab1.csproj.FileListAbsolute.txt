@@ -1,0 +1,8 @@
+C:\Users\yassm\source\repos\EntityLab1\EntityLab1\bin\Debug\EntityLab1.exe.config
+C:\Users\yassm\source\repos\EntityLab1\EntityLab1\bin\Debug\EntityLab1.exe
+C:\Users\yassm\source\repos\EntityLab1\EntityLab1\bin\Debug\EntityLab1.pdb
+C:\Users\yassm\source\repos\EntityLab1\EntityLab1\obj\Debug\EntityLab1.csproj.AssemblyReference.cache
+C:\Users\yassm\source\repos\EntityLab1\EntityLab1\obj\Debug\EntityLab1.csproj.CoreCompileInputs.cache
+C:\Users\yassm\source\repos\EntityLab1\EntityLab1\obj\Debug\EntityLab1.exe
+C:\Users\yassm\source\repos\EntityLab1\EntityLab1\obj\Debug\EntityLab1.pdb
+C:\Users\yassm\source\repos\EntityLab1\EntityLab1\obj\Debug\EntityLab1.exe.config

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yassm\\source\\repos\\EntityLab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05D6C285-2DD6-4AAA-94D8-B02861B84FDA}|EntityLab1\\EntityLab1.csproj|c:\\users\\yassm\\source\\repos\\entitylab1\\entitylab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D6C285-2DD6-4AAA-94D8-B02861B84FDA}|EntityLab1\\EntityLab1.csproj|solutionrelative:entitylab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D6C285-2DD6-4AAA-94D8-B02861B84FDA}|EntityLab1\\EntityLab1.csproj|c:\\users\\yassm\\source\\repos\\entitylab1\\entitylab1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D6C285-2DD6-4AAA-94D8-B02861B84FDA}|EntityLab1\\EntityLab1.csproj|solutionrelative:entitylab1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D6C285-2DD6-4AAA-94D8-B02861B84FDA}|EntityLab1\\EntityLab1.csproj|c:\\users\\yassm\\source\\repos\\entitylab1\\entitylab1\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D6C285-2DD6-4AAA-94D8-B02861B84FDA}|EntityLab1\\EntityLab1.csproj|solutionrelative:entitylab1\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\EntityLab1\\EntityLab1\\student.cs",
+              "RelativeDocumentMoniker": "EntityLab1\\student.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\EntityLab1\\EntityLab1\\student.cs",
+              "RelativeToolTip": "EntityLab1\\student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:37:42.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "subject.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\EntityLab1\\EntityLab1\\subject.cs",
+              "RelativeDocumentMoniker": "EntityLab1\\subject.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\EntityLab1\\EntityLab1\\subject.cs",
+              "RelativeToolTip": "EntityLab1\\subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:36:46.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\EntityLab1\\EntityLab1\\Program.cs",
+              "RelativeDocumentMoniker": "EntityLab1\\Program.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\EntityLab1\\EntityLab1\\Program.cs",
+              "RelativeToolTip": "EntityLab1\\Program.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAqwIYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:14:04.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
