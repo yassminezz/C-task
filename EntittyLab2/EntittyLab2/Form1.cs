@@ -23,10 +23,8 @@ namespace EntittyLab2
             comboBox1.DisplayMember = "Dname";
             comboBox1.ValueMember = "Dnum";
 
-            // Load grid and select first row
             RefreshGridAndButtons();
 
-            // Wire SelectionChanged event
             dataGridView1.SelectionChanged += dataGridView1_SelectionChanged;
         }
 
@@ -107,11 +105,9 @@ namespace EntittyLab2
 
         private void RefreshGridAndButtons()
         {
-            // Refresh DataGrid
             dataGridView1.DataSource = null;
             dataGridView1.DataSource = context.Projects.ToList();
 
-            // Select first row if exists
             if (dataGridView1.Rows.Count > 0)
                 dataGridView1.Rows[0].Selected = true;
 
