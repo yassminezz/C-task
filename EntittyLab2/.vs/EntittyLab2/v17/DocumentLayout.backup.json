@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yassm\\source\\repos\\EntittyLab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{291A372D-1A0D-4717-9D69-A95C50A3F5D9}|EntittyLab2\\EntittyLab2.csproj|c:\\users\\yassm\\source\\repos\\entittylab2\\entittylab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291A372D-1A0D-4717-9D69-A95C50A3F5D9}|EntittyLab2\\EntittyLab2.csproj|solutionrelative:entittylab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291A372D-1A0D-4717-9D69-A95C50A3F5D9}|EntittyLab2\\EntittyLab2.csproj|c:\\users\\yassm\\source\\repos\\entittylab2\\entittylab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{291A372D-1A0D-4717-9D69-A95C50A3F5D9}|EntittyLab2\\EntittyLab2.csproj|solutionrelative:entittylab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291A372D-1A0D-4717-9D69-A95C50A3F5D9}|EntittyLab2\\EntittyLab2.csproj|c:\\users\\yassm\\source\\repos\\entittylab2\\entittylab2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291A372D-1A0D-4717-9D69-A95C50A3F5D9}|EntittyLab2\\EntittyLab2.csproj|solutionrelative:entittylab2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291A372D-1A0D-4717-9D69-A95C50A3F5D9}|EntittyLab2\\EntittyLab2.csproj|c:\\users\\yassm\\source\\repos\\entittylab2\\entittylab2\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291A372D-1A0D-4717-9D69-A95C50A3F5D9}|EntittyLab2\\EntittyLab2.csproj|solutionrelative:entittylab2\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291A372D-1A0D-4717-9D69-A95C50A3F5D9}|EntittyLab2\\EntittyLab2.csproj|c:\\users\\yassm\\source\\repos\\entittylab2\\entittylab2\\models\\companysdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291A372D-1A0D-4717-9D69-A95C50A3F5D9}|EntittyLab2\\EntittyLab2.csproj|solutionrelative:entittylab2\\models\\companysdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\EntittyLab2\\EntittyLab2\\Form1.cs",
+              "RelativeDocumentMoniker": "EntittyLab2\\Form1.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\EntittyLab2\\EntittyLab2\\Form1.cs*",
+              "RelativeToolTip": "EntittyLab2\\Form1.cs*",
+              "ViewState": "AgIAAGsAAAAAAAAAAAA9wHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:41:55.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\EntittyLab2\\EntittyLab2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EntittyLab2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\EntittyLab2\\EntittyLab2\\Form1.Designer.cs",
+              "RelativeToolTip": "EntittyLab2\\Form1.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwFsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:51:52.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\EntittyLab2\\EntittyLab2\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "EntittyLab2\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\EntittyLab2\\EntittyLab2\\Models\\Project.cs",
+              "RelativeToolTip": "EntittyLab2\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:10:21.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanySdContext.cs",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\EntittyLab2\\EntittyLab2\\Models\\CompanySdContext.cs",
+              "RelativeDocumentMoniker": "EntittyLab2\\Models\\CompanySdContext.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\EntittyLab2\\EntittyLab2\\Models\\CompanySdContext.cs",
+              "RelativeToolTip": "EntittyLab2\\Models\\CompanySdContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:38:02.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yassm\\source\\repos\\EntittyLab2\\EntittyLab2\\Form1.cs",
+              "RelativeDocumentMoniker": "EntittyLab2\\Form1.cs",
+              "ToolTip": "C:\\Users\\yassm\\source\\repos\\EntittyLab2\\EntittyLab2\\Form1.cs [Design]*",
+              "RelativeToolTip": "EntittyLab2\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:17:49.557Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
